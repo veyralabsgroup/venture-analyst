@@ -1,6 +1,6 @@
 {
   "name": "@veyralabs/venture-analyst",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Startup and SaaS idea validation skill for Claude Code",
   "files": [
     "SKILL.md",
